@@ -1,4 +1,4 @@
-('C:\\CODEMEO\\MYCODE\\tool-buff-view\\build\\SeleniumWindowRunner\\PYZ-00.pyz',
+('C:\\CODEMEO\\MYCODE\\tool-buff-view-article\\build\\SeleniumWindowRunner\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\dodan\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
    'PYMODULE'),
