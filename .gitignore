@@ -1,0 +1,6 @@
+.codegraph/
+__pycache__/
+*.pyc
+
+proxy.txt
+*.log
